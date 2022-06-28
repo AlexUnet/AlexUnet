@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Alejandro Lopez
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... advanced HTML and CSS
-- 💞️ I’m looking to collaborate on ... projects and jobs
+- 👋 Hi, I’m @Alejandro Lopez im a Software developer from Venezuela
+- 👀 I’m interested in ... Software development specially in mobile devices.
+- 🌱 I’m currently learning ... advanced Swift and IOS development.
+- 💞️ I’m looking to collaborate on ... projects and jobs where i can learn a lot about software architecture and specialized methodologies
 - 📫 How to reach me ...
 
 <!---
